@@ -5,6 +5,8 @@ draft: false
 ---
 [英文原文](https://bitcoinmagazine.com/technical/the-battle-for-p2sh-the-untold-story-of-the-first-bitcoin-war)
 
+[本翻译稿 Github repo](https://github.com/myrual/the-battle-for-p2sh-the-untold-story-of-the-first-bitcoin-war_cn/blob/main/The_Battle_For_P2SH_The_Untold_Story_Of_The_First_Bitcoin_War.md)
+
 翻译：DeepL，Google Translate 校对： 李林
 
 ```
