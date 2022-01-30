@@ -69,7 +69,7 @@ Andresen对这一想法非常着迷，他将成为这一想法的第一个拥护
 如果它们被包括在内，节点会接受它们（多签交易最终是有效的）。但在实践中，这种指定使得这些交易几乎不可能得到确认。
 
 
-## Enter OP_EVAL
+## 进入 OP_EVAL
 为了释放他所看到的潜力，Andresen将继续倡导一种新的 "操作码"，一种节点可以用来决定新类型的交易是否有效以及何时有效的命令。
 
 OP_EVAL的设计是为了适应更高级的交易，如multisig，它在很大程度上依赖于哈希，这种加密技巧可以确定地扰乱和压缩数据，但不可逆地变成一串独特的数字。
@@ -94,7 +94,7 @@ OP_EVAL的设计是为了适应更高级的交易，如multisig，它在很大�
 如果不能统一升级，矿工可能会在不知情的情况下产生 "无效 "区块。更糟糕的是，用户可能在不知情的情况下接受 "无效 "交易。
 
 
-## A New Kind Of Soft Fork一种新型的软分叉
+## 一种新型的软分叉
 Soon enough, however, Andresen realized it was possible to assuage his detractors. 然而，很快，Andresen意识到有可能安抚诋毁他的人。
 
 作为一个巧妙的技巧，他发现OP_EVAL可以通过重新定义中本聪最初包括的几个非活动操作代码之一来部署，作为未来命令的占位符。
@@ -139,7 +139,7 @@ Andresen的建议似乎令大多数人满意。"似乎......从第一眼就可�
 
 Andresen的解决方案的非传统性质激怒了Dashjr，他认为这使协议复杂化，并带来了不确定的后果。他向Andresen提出了这个问题，但后者不相信他的担忧值得改变计划[[16](https://bitcointalk.org/index.php?topic=58579.msg690145#msg690145)]。
 
-他的建议被拒绝后，Dashjr将于1月中旬在BitcoinTalk公共论坛上爆发，谴责P2SH，并指控Andresen在支持这一变化时 "自作主张"[[17(https://bitcointalk.org/index.php?topic=58579.0)]]。
+他的建议被拒绝后，Dashjr将于1月中旬在BitcoinTalk公共论坛上爆发，谴责P2SH，并指控Andresen在支持这一变化时 "自作主张"[[17](https://bitcointalk.org/index.php?topic=58579.0)]。
 
 "Gavin正在强迫每个使用最新比特币代码的人投票给[P2SH]，"他写道。"如果你想反对这个疯狂的协议变化，你需要修改你的BitcoinD源代码，否则你将默认为投票支持它。"
 
@@ -198,7 +198,7 @@ Taaki将成为认真对待边缘问题的少数声音--但不是因为他反对A
 
 对其他人来说，采矿中心化是一个不幸的拐杖，是使软分叉升级更容易管理，从而减少风险的一种方式。(毕竟，现在的安全推广只需要少数几个矿池运营商的参与）。
 
-例如，Maxwell更愿意接受眼前不尽人意的现实[[25]（https://buildingbitcoin.org/bitcoin-dev/log-2011-12-19.html）。
+例如，Maxwell更愿意接受眼前不尽人意的现实[[25](https://buildingbitcoin.org/bitcoin-dev/log-2011-12-19.html)]。
 
 "他回答说："如果有不小的阻力，开发者和资金池都会退缩，但无论如何，现在似乎没有人反对它。"这是一个很好的机制，可以用于未来......希望我们不会出现比特币不再去中心化的这种糟糕情况。"
 
@@ -241,7 +241,7 @@ Dashjr并不反对Maxwell的观点，但从实际出发，他很难看出，如�
 
 "这种'匆忙'的说法是胡说八道，Gavin是在什么时候开始走[付费到脚本-哈希]的路线的，10月份？"他写道[[30](http://azure.erisian.com.au/~aj/tmp/irc/log-2012-01-22.html)]。"据我所知，除非有人画出一个最后期限，否则这个过程永远不会收敛，因为总会有一些新的家伙，他的伟大想法被遗漏了。"
 
-Andresen将延迟的责任不是归咎于矿池的出现，而是归咎于DeepBit的运营商Tycho个人。"现在，看起来一个人有足够的散列能力来否决任何改变，"他写道[[31]（https://bitcointalk.org/index.php?topic=61125.0）]。
+Andresen将延迟的责任不是归咎于矿池的出现，而是归咎于DeepBit的运营商Tycho个人。"现在，看起来一个人有足够的散列能力来否决任何改变，"他写道[[31](https://bitcointalk.org/index.php?topic=61125.0)]。
 
 
 这让Andresen很烦恼，他认为Tycho的立场是不道德的。他写道："我认为你利用你作为最大的矿池经营者的地位来反对普遍的共识是错误的，"[32](http://azure.erisian.com.au/~aj/tmp/irc/log-2012-01-23.html)]。
