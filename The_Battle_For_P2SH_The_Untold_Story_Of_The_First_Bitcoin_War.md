@@ -155,11 +155,11 @@ Andresen的解决方案的非传统性质激怒了Dashjr，他认为这使协议
 
 Dashjr并没有退缩，他将编码一个P2SH的替代版本，称为CheckHashVerify（CHV）。CHV本质上是一个不同的P2SH实现--但它不需要对交易输出进行非常规的解释。相反，CHV增加了一个新的操作码，和OP_EVAL一样，可以 "伪装 "成一个占位符操作码。
 
-但对安德烈森来说，进行更多的辩论已经太晚了[[21](http://azure.erisian.com.au/~aj/tmp/irc/log-2012-01-14.html)]。他对公众的爆发感到愤怒，于是用自己的方式来回应，写道："。
+但对Andresen来说，进行更多的辩论已经太晚了[[21](http://azure.erisian.com.au/~aj/tmp/irc/log-2012-01-14.html)]。他对公众的爆发感到愤怒，于是用自己的方式来回应，写道："。
 
 "Luke，你在试探我的耐心。我要离开代码几天，在我做傻事之前冷静下来。"
 
-## Genjix Goes Public
+## genjix[^1] 出现了
 由于Andresen的P2SH设计（现在简称为P2SH）在很大程度上被认为是该项目首席开发者所喜欢的一个足够好的解决方案，Dashjr发现自己几乎没有同路人。
 
 Taaki将成为认真对待边缘问题的少数声音--但不是因为他反对Andresen的解决方案，也不一定同意Dashjr的解决方案。
@@ -305,6 +305,8 @@ P2SH，即中本聪离开后的第一次协议升级，已经颁布了。
 
 一年后，在应对另一场新出现的危机时，回忆起这些事件，Andresen会夸夸其谈，表明他认为P2SH验证了他对项目的领导和愿景[[44](https://bitcointalk.org/index.php?topic=189792.msg1967890#msg1967890)]。
 
-"区将变大，"他写道，以回应开发者Peter Todd在2013年初制作的一个主张反对提高限额的视频[[45](https://bitcointalk.org/index.php?topic=189792.msg1967890#msg1967890)]。"你的视频只会让很多人杞人忧天，就像去年Luke-Jr的[CHV]提案除了引起茶壶里的风波外，什么也没做。"
+"区块将变大，"他写道，以回应开发者Peter Todd在2013年初制作的一个主张反对提高限额的视频[[45](https://bitcointalk.org/index.php?topic=189792.msg1967890#msg1967890)]。"你的视频只会让很多人杞人忧天，就像去年Luke-Jr的[CHV]提案除了引起茶壶里的风波外，什么也没做。"
 
 对于第一个去中心化的数字货币，应该如何决策？如果这个问题最终被问到了，那就需要一场更广泛的战争来解决，而且还是在未来的几年里......
+
+[^1]: genjix在BitcoinTalk上的[发言](https://bitcointalk.org/index.php?topic=61705.msg721050#msg721050) 。[Amir Taaki]((https://military-history.fandom.com/wiki/Amir_Taaki)) 在2006年以genjix名义重度参与[水晶空间开发](https://www.youtube.com/watch?v=JtGsQPoqm8Y)
