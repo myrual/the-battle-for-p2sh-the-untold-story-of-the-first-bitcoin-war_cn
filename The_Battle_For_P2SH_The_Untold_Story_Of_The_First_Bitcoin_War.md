@@ -97,7 +97,7 @@ OP_EVAL的设计是为了适应更高级的交易，如multisig，它在很大�
 
 
 ## 一种新型的软分叉
-Soon enough, however, Andresen realized it was possible to assuage his detractors. 然而，很快，Andresen意识到有可能安抚诋毁他的人。
+然而，很快，Andresen意识到有可能安抚诋毁他的人。
 
 作为一个巧妙的技巧，他发现OP_EVAL可以通过重新定义中本聪最初包括的几个非活动操作代码之一来部署，作为未来命令的占位符。
 
